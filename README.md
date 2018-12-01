@@ -1,6 +1,6 @@
 # csp
 Solving 1D MSSCSP with genetic algorithm and artificial immune system <br/>
-Crossover and mutation operators are slightly modified versions of Falkenauer's reprodcution operators[1] in conjunction with recursive first fit algorithm proposed by Toyoda[3] so that it would be suitable for mutiple stock sizes problem 
+Crossover and mutation operators are slightly modified versions of Falkenauer's reprodcution operators[1] in conjunction with recursive first fit algorithm proposed by Toyoda[3] so that it would fit our mutiple stock sizes problem.
 
 ## References
 ###### [1] Falkenauer, E. and Delchambre, A. (1992). A genetic algorithm for bin packing and line balancing. Proceedings 1992 IEEE International Conference on Robotics and Automation, pp.1186-1193.
